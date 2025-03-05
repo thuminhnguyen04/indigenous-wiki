@@ -1,0 +1,26 @@
+ ~~NOTOC~~
+
+====== Acknowledgement of Country and Elders ======
+IndigiTech acknowledges the peoples who are the traditional custodians of Australia and the Torres Strait Islands. We respect their spiritual relationship with their country, and that their cultural and heritage beliefs are still important to the living peoples today. We also pay respect to the cultural authority of Aboriginal and Torres Strait Islander peoples of Australia and pay respect to their Elders past, and present.
+
+====== About IndigiTech ======
+Welcome to **IndigiTech**, a digital space dedicated to exploring the rich history, culture, and stories of Aboriginal Australia. Here, we delve into the traditions and perspectives of Aboriginal communities, bringing you closer to the world of *Dreamtime stories*, historical art, and practices that hold deep significance.
+
+Our site explores key aspects of Aboriginal heritage, including:
+  * Unique pedagogies
+  * Language diversity
+  * Seasonal knowledge
+  * Artwork that speaks to the past and present of Aboriginal life
+
+Through these insights, IndigiTech aims to foster a deeper understanding and appreciation of the enduring legacy of Aboriginal culture in Australia.
+
+=======Topics=======
+
+<WRAP group>
+
+<WRAP column 20%> {{:aboriginalflag.jpg?200|}} [[:Aboriginal Pedagogy]] </WRAP>
+<WRAP column 20%> {{:dsc0663_600x.webp?200|}} [[:Aboriginal Seasons]] </WRAP>
+<WRAP column 22%> {{:languageshomepage.jpg?220|}} [[:Aboriginal Language]] </WRAP>
+<WRAP column 21%> {{:ausindig.jpg?200|}} [[:History of Aboriginals & Symbols]] </WRAP>
+
+</WRAP>

@@ -1,0 +1,25 @@
+====== DokuWiki Cheatsheet ======
+
+^ Syntax                                                              ^ Result                                                      ^
+|  **FORMATTING**                                                                                                                  ||
+| ''%%**bold** //italic// __underline__%%''                           | **bold** //italic// __underline__                           |
+| ''%%''monospace''%%'' (single quotes)                               | ''monospace''                                               |
+| ''%%**//__''all together''__//**%%''                                | **//__''all together''__//**                                |
+| ''%%<sup>superscript</sup>%%'' and ''%%<sub>subscript</sub>%%''     | <sup>superscript</sup> and <sub>subscript</sub>             |
+| ''%%<del>delete text</del>%%''                                      | <del>delete text</del>                                      |
+| ''%%force\\ newline \\needs a space after%%''                             | force\\ newline \\needs a space after                      |
+| ''%%<nowiki>**bo** //it// __un__%%</nowiki>''                       | %%**bo** //it// __un__%%                                    |
+|  **LINKS **                                                                                                                      ||
+| ''%%https://www.google.com%%''                                      | https://www.google.com                                      |
+| ''%%[[https://www.google.com|Google]]%%''                           | [[https://www.google.com|Google]]                           |
+| ''%%[[mailto:foo@example.com|Mr. Foo]]%%''                          | [[mailto:foo@example.com|Mr. Foo]]                          |
+| ''%%[[foo@example.com]]%%''                                           | [[foo@example.com]]                          |
+| ''%%[[wiki:Syntax|Go to the syntax page]]%%''                       | [[wiki:Syntax|Go to the syntax page]]                       |
+| ''%%[[wiki:Syntax#anchor|Link to anchor]]%%''                       | [[wiki:Syntax#anchor|Link to anchor]]                       |
+| ''%%[[doku>interwiki|Interwiki link]]%%''                           | [[doku>interwiki|Interwiki link]]                           |
+|  **IMAGES**                                                                                                                      ||
+| ''%%{{wiki:art1.jpg |With (mouseover) title}}%%''           | {{wiki:art1.jpg |With (mouseover) title}}           |
+| ''%%{{  wiki:art1.jpg?128 }}%%'' (whitespace aligns)         | {{ wiki:art1.jpg?128 }}                              |
+| ''%%[[https://www.dokuwiki.org|{{ wiki:art1.jpg?128}}]]%%''  | [[https://www.dokuwiki.org|{{ wiki:art1.jpg?128}}]]  |
+|  **OTHER**                                                                                                                       ||
+| ''%%Lorem ipsum((This is a footnote))%%''                           | Lorem ipsum((This is a footnote))                           |

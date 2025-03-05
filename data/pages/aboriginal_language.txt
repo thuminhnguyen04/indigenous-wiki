@@ -1,0 +1,46 @@
+====== Aboriginal and Torres Strait Islander Languages ======
+
+===== Most Commonly Spoken Languages (2021) =====
+The top 10 Aboriginal and Torres Strait Islander languages spoken in Australia in 2021 are listed below:
+
+^ Language                                  ^ Number of Speakers ^ Indigenous Locations with the Highest Number of Speakers                              ^
+| Yumplatok (Torres Strait Creole)          | 7,596               | Bamaga and Surrounds (Qld), TRAWQ (Thursday Island) (Qld), Port Kennedy (Thursday Island) (Qld) |
+| Kriol                                     | 7,403               | Ngukurr (NT), Minyerri (NT), Wugular (Beswick) (NT)                                    |
+| Australian Indigenous Languages, nfd (a)  | 4,197               | Townsville (Qld), Wadeye (NT), Palm Island (Qld)                                        |
+| Djambarrpuyngu                            | 3,839               | Galiwinku (NT), Ramingining (NT), Milingimbi (NT)                                      |
+| Pitjantjatjara                            | 3,399               | Pukatja (SA), Amata - Tjurma Homelands (SA), Kaltjiti (Fregon) (SA)                    |
+| Other Australian Indigenous Languages, nec (b) | 2,863           | Palm Island (Qld), Port Macquarie (NSW), Shoalhaven (NSW)                              |
+| Cape York Peninsula Languages, nec        | 2,688               | Yarrabah (Qld), Lockhart River (Qld), Injinoo (Qld)                                     |
+| Warlpiri                                  | 2,592               | Yuendumu and Outstations (NT), Lajamanu (NT), Nyirripi (NT)                           |
+| Murrinh Patha                             | 2,063               | Wadeye (NT), Nganmarriyanga (NT), Thamarrurr exc. Wadeye (NT)                         |
+| Tiwi                                      | 2,053               | Wurrumiyanga (NT), Milikapiti (NT), Pirlangimpi (NT)                                  |
+
+===== Analysis of Most Commonly Spoken Languages =====
+The data highlights a diverse range of languages, with Yumplatok (Torres Strait Creole) leading as the most spoken Indigenous language with 7,596 speakers, mostly in regions like Bamaga and Thursday Island. Kriol, with 7,403 speakers, follows closely behind, predominantly spoken in Northern Territory communities such as Ngukurr and Minyerri.
+
+One noteworthy observation is the high number of speakers for languages like Djambarrpuyngu and Pitjantjatjara, which are spoken in specific regions such as Galiwinku and Pukatja, respectively. These languages are vital in preserving cultural heritage and maintaining the connection between the Indigenous people and their ancestral lands.
+
+Languages like Kriol and Yumplatok show the impact of colonial history on Indigenous languages. However, despite the influences of colonization, these languages have persisted and continue to be spoken by many people, thus playing a critical role in the cultural survival of their speakers.
+
+The category of "Other Australian Indigenous Languages, nec" (not elsewhere classified) represents a large, diverse group of languages spoken in areas such as Palm Island and Shoalhaven. These languages are not well-documented but continue to contribute to Australia's rich linguistic diversity.
+
+Overall, the data suggests that while many Indigenous languages have experienced decline due to various socio-historical factors, others remain robust and actively spoken, ensuring the continuation of Indigenous culture and traditions.
+
+===== Population Statistics (2021) =====
+Here are the estimated population statistics for Indigenous Australians as of June 2021:
+
+^ State  ^ Aboriginal Only (no.) ^ Torres Strait Islander Only (no.) ^ Both Aboriginal and Torres Strait Islander (no.) ^ Total Aboriginal and/or Torres Strait Islander (no.) ^ Non-Indigenous (no.) ^ Total (no.) ^
+| NSW    | 326,927               | 5,971                | 6,812                         | 339,710                              | 7,757,352     | 8,097,062  |
+| Vic.   | 74,263                | 2,463                | 1,970                         | 78,696                               | 6,469,126     | 6,547,822  |
+| Qld    | 222,309               | 25,169               | 25,641                        | 273,119                              | 4,942,695     | 5,215,814  |
+| SA     | 49,721                | 1,195                | 1,153                         | 52,069                               | 1,750,532     | 1,802,601  |
+| WA     | 85,939                | 1,988                | 5,853                         | 93,780                               | 2,681,653     | 2,775,441  |
+| Tas.   | 28,045                | 446                  | 516                           | 28,926                               | 541,500       | 570,426    |
+| NT     | 85,329                | 1,449                | 5,047                         | 91,825                               | 266,361       | 358,186    |
+
+===== Analysis of Indigenous Population by State =====
+The data reveals that New South Wales has the largest Indigenous population, with a total of 339,710, followed by Queensland with 273,119. Notably, Western Australia and the Northern Territory show a higher proportion of Aboriginal and Torres Strait Islander populations, with substantial representation in remote areas. The Northern Territory, for example, has 91,825 Indigenous individuals, representing a significant portion of the state's overall population.
+
+Across Australia, the population of Indigenous Australians continues to grow, though disparities remain between Indigenous and non-Indigenous populations in terms of overall numbers. In comparison, the non-Indigenous populations in these states are much larger, with New South Wales having a non-Indigenous population of 7.76 million, which dwarfs the Indigenous population in the state.
+
+This disparity highlights the importance of targeted policies and programs that address the specific needs of Indigenous communities, particularly in areas such as health, education, and employment. Furthermore, the data reveals the persistence of Indigenous populations in regional and remote areas, where the focus on cultural preservation and community development is essential.

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/feed.php">
+        <title>IndigiTech</title>
+        <description></description>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/</link>
+        <image rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/tpl/arcadebasic/images/favicon.ico" />
+       <dc:date>2025-03-04T16:10:08+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=indigenous_data&amp;rev=1740913301&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=resources&amp;rev=1740913257&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=topics&amp;rev=1740912868&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=indigenousdata.png&amp;ns=&amp;rev=1740912851&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=my_country_by_damien_and_yilpi_marks&amp;rev=1740645484&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=syntax&amp;rev=1740643999&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=syntax:syntax&amp;rev=1740643952&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=tingari_by_george_ward_tjungurrayi&amp;rev=1740618776&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=aboriginal_seasons&amp;rev=1740618675&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=tali_by_eubena_nampitjin&amp;rev=1740618399&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=sidebar&amp;rev=1740548542&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=history_of_aboriginals_symbols&amp;rev=1740547828&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=home&amp;rev=1740309070&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=water&amp;rev=1740307953&amp;do=diff"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=lab12.pdf&amp;ns=&amp;rev=1740305632&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=distributionofanalysedstudies.png&amp;ns=&amp;rev=1740304024&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=img_5793.png&amp;ns=&amp;rev=1739084619&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=wiki%3Abackground2.jpg&amp;ns=wiki&amp;rev=1739084203&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=ausindig.jpg&amp;ns=&amp;rev=1739014475&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=dsc0663_600x.webp&amp;ns=&amp;rev=1739014426&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/tpl/arcadebasic/images/favicon.ico">
+        <title>IndigiTech</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/</link>
+        <url>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/tpl/arcadebasic/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=indigenous_data&amp;rev=1740913301&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-02T11:01:41+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>indigenous_data - created</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=indigenous_data&amp;rev=1740913301&amp;do=diff</link>
+        <description>Indigenous Data
+
+Definition
+
+“Data generated, intentionally or not, by, about, or for Aboriginal and Torres Strait Islander people. Indigenous data refers to information, in any format or medium, collected, analysed, stored, and interpreted within the context of Indigenous individuals, collectives, populations, entities, lifeways, cultures, knowledge systems, lands, biodiversity, water and other resources.</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=resources&amp;rev=1740913257&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-02T11:00:57+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>resources</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=resources&amp;rev=1740913257&amp;do=diff</link>
+        <description>8 Ways  
+This website explains the ‘8 Ways’ approach, which is an Aboriginal method of teaching and learning. Instead of focusing just on books and lectures, Aboriginal teaching values ways like visual learning, telling stories, and connecting with nature. For example, this website teaches us how storytelling can be a powerful way to share knowledge. In an Aboriginal classroom, a teacher might use a story to teach a lesson, rather than just giving instructions. This approach is very hands-on and…</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=topics&amp;rev=1740912868&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-02T10:54:28+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>topics</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=topics&amp;rev=1740912868&amp;do=diff</link>
+        <description>Topics
+
+  Aboriginal Pedagogy 
+
+  Aboriginal Seasons 
+
+  Aboriginal Language 
+
+  History of Aboriginals &amp; Symbols 
+
+  Indigenous Data</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=indigenousdata.png&amp;ns=&amp;rev=1740912851&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-02T10:54:11+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>indigenousdata.png - created</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=indigenousdata.png&amp;ns=&amp;rev=1740912851&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=c27a14&amp;amp;media=indigenousdata.png&quot; alt=&quot;indigenousdata.png&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=my_country_by_damien_and_yilpi_marks&amp;rev=1740645484&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T08:38:04+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>my_country_by_damien_and_yilpi_marks</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=my_country_by_damien_and_yilpi_marks&amp;rev=1740645484&amp;do=diff</link>
+        <description>My Country by Damien and Yilpi Marks
+
+
+
+“My Country” by Damien and Yilpi Marks celebrates the beauty and spirit of the Australian landscape. Using vibrant colors and layered patterns, the artwork reflects the artists&#039; deep connection to their homeland, portraying rivers, hills, and sacred sites. It’s a visual story of the land’s energy and cultural significance, honoring the ancestral ties and traditions linked to</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=syntax&amp;rev=1740643999&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T08:13:19+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>syntax - created</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=syntax&amp;rev=1740643999&amp;do=diff</link>
+        <description>DokuWiki Cheatsheet
+ Syntax                                                               Result                                                        FORMATTING</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=syntax:syntax&amp;rev=1740643952&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T08:12:32+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>syntax</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=syntax:syntax&amp;rev=1740643952&amp;do=diff</link>
+        <description>DokuWiki Cheatsheet
+ Syntax                                                               Result                                                        FORMATTING</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=tingari_by_george_ward_tjungurrayi&amp;rev=1740618776&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T01:12:56+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>tingari_by_george_ward_tjungurrayi</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=tingari_by_george_ward_tjungurrayi&amp;rev=1740618776&amp;do=diff</link>
+        <description>Tingari by George Ward Tjungurrayi
+
+“Tingari” by George Ward Tjungurrayi represents the journeys and rituals of the Tingari ancestors, a group of ancestral beings important in Aboriginal tradition. This artwork captures their travels across the land, leaving sacred sites and knowledge behind, which are crucial for guiding initiations and teaching younger generations. The abstract patterns and concentric circles in the piece echo the sacred landscape, blending spiritual stories with the natural g…</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=aboriginal_seasons&amp;rev=1740618675&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T01:11:15+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>aboriginal_seasons</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=aboriginal_seasons&amp;rev=1740618675&amp;do=diff</link>
+        <description>Understanding Seasonal Knowledge of First Nations Peoples
+
+Introduction: Aboriginal Seasons
+
+First Nations people have deep knowledge about the environment. All the seasons are mainly based on environmental changes rather than specific months. Every season marks important ecological events like plant flowering, animal behavior, and weather patterns.</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=tali_by_eubena_nampitjin&amp;rev=1740618399&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T01:06:39+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>tali_by_eubena_nampitjin</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=tali_by_eubena_nampitjin&amp;rev=1740618399&amp;do=diff</link>
+        <description>Tali by Eubena Nampitjin
+
+“Tali” by Eubena Nampitjin depicts the sand dunes, or “tali,” of the Great Sandy Desert, a landscape deeply connected to her heritage. The artwork uses flowing lines and rich earthy tones to represent the movement and patterns of the dunes shaped by wind and time. Through this piece, Nampitjin brings to life her memories and ancestral connections to the desert, highlighting the beauty and spiritual importance of her homeland.</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=sidebar&amp;rev=1740548542&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T05:42:22+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>sidebar</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=sidebar&amp;rev=1740548542&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=history_of_aboriginals_symbols&amp;rev=1740547828&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T05:30:28+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>history_of_aboriginals_symbols</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=history_of_aboriginals_symbols&amp;rev=1740547828&amp;do=diff</link>
+        <description>History of Aboriginals
+
+Aboriginal Symbols Illustration
+
+The “U” shape on the ground symbolizes a person sitting cross-legged.  
+Lines linking circles illustrate the paths taken by people as they move from one site to another.
+
+Women Symbol
+
+The combination of a coolamon bowl and a digging stick forms a symbol resembling</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=home&amp;rev=1740309070&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-23T11:11:10+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>home</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=home&amp;rev=1740309070&amp;do=diff</link>
+        <description>Acknowledgement of Country and Elders
+
+IndigiTech acknowledges the peoples who are the traditional custodians of Australia and the Torres Strait Islands. We respect their spiritual relationship with their country, and that their cultural and heritage beliefs are still important to the living peoples today. We also pay respect to the cultural authority of Aboriginal and Torres Strait Islander peoples of Australia and pay respect to their Elders past, and present.</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=water&amp;rev=1740307953&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-23T10:52:33+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>water - created</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?id=water&amp;rev=1740307953&amp;do=diff</link>
+        <description>hi</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=lab12.pdf&amp;ns=&amp;rev=1740305632&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-23T10:13:52+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>lab12.pdf - created</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=lab12.pdf&amp;ns=&amp;rev=1740305632&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/images/fileicons/svg/pdf.svg&quot; alt=&quot;lab12.pdf&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=distributionofanalysedstudies.png&amp;ns=&amp;rev=1740304024&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-23T09:47:04+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>distributionofanalysedstudies.png - created</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=distributionofanalysedstudies.png&amp;ns=&amp;rev=1740304024&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=3c7dc0&amp;amp;media=distributionofanalysedstudies.png&quot; alt=&quot;distributionofanalysedstudies.png&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=img_5793.png&amp;ns=&amp;rev=1739084619&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-09T07:03:39+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>img_5793.png - created</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=img_5793.png&amp;ns=&amp;rev=1739084619&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=e63ccb&amp;amp;media=img_5793.png&quot; alt=&quot;img_5793.png&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=wiki%3Abackground2.jpg&amp;ns=wiki&amp;rev=1739084203&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-09T06:56:43+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>background2.jpg - created</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=wiki%3Abackground2.jpg&amp;ns=wiki&amp;rev=1739084203&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=936968&amp;amp;media=wiki:background2.jpg&quot; alt=&quot;background2.jpg&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=ausindig.jpg&amp;ns=&amp;rev=1739014475&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-08T11:34:35+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ausindig.jpg - created</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=ausindig.jpg&amp;ns=&amp;rev=1739014475&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=18367b&amp;amp;media=ausindig.jpg&quot; alt=&quot;ausindig.jpg&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=dsc0663_600x.webp&amp;ns=&amp;rev=1739014426&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-08T11:33:46+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>dsc0663_600x.webp - created</title>
+        <link>http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/doku.php?image=dsc0663_600x.webp&amp;ns=&amp;rev=1739014426&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://ec2-13-54-13-106.ap-southeast-2.compute.amazonaws.com/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=8b7fbb&amp;amp;media=dsc0663_600x.webp&quot; alt=&quot;dsc0663_600x.webp&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+</rdf:RDF>

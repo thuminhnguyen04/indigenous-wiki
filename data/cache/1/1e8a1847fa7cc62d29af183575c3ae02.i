@@ -1,0 +1,18 @@
+a:42:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:22:"History of Aboriginals";i:1;i:1;i:2;i:1;}i:2;i:1;}i:2;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:1;}i:2;i:1;}i:3;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:40;}i:4;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:31:"Aboriginal Symbols Illustration";i:1;i:2;i:2;i:40;}i:2;i:40;}i:5;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:2;}i:2;i:40;}i:6;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:40;}i:7;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:4:"The ";}i:2;i:84;}i:8;a:3:{i:0;s:18:"doublequoteopening";i:1;a:0:{}i:2;i:88;}i:9;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"U";}i:2;i:89;}i:10;a:3:{i:0;s:18:"doublequoteclosing";i:1;a:0:{}i:2;i:90;}i:11;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:162:" shape on the ground symbolizes a person sitting cross-legged.  
+Lines linking circles illustrate the paths taken by people as they move from one site to another.";}i:2;i:91;}i:12;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:253;}i:13;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:255;}i:14;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:12:"Women Symbol";i:1;i:2;i:2;i:255;}i:2;i:255;}i:15;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:2;}i:2;i:255;}i:16;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:255;}i:17;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:81:"The combination of a coolamon bowl and a digging stick forms a symbol resembling ";}i:2;i:280;}i:18;a:3:{i:0;s:18:"doublequoteopening";i:1;a:0:{}i:2;i:361;}i:19;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:3:"UOI";}i:2;i:362;}i:20;a:3:{i:0;s:18:"doublequoteclosing";i:1;a:0:{}i:2;i:365;}i:21;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:53:", signifying a woman engaged in hunting or gathering.";}i:2;i:366;}i:22;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:419;}i:23;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:421;}i:24;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:16:"Gathering Symbol";i:1;i:2;i:2;i:421;}i:2;i:421;}i:25;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:2;}i:2;i:421;}i:26;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:421;}i:27;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:81:"The arrangement of spears and possibly boomerangs can be visually represented as ";}i:2;i:450;}i:28;a:3:{i:0;s:18:"doublequoteopening";i:1;a:0:{}i:2;i:531;}i:29;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:4:"U ||";}i:2;i:532;}i:30;a:3:{i:0;s:18:"doublequoteclosing";i:1;a:0:{}i:2;i:536;}i:31;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:27:", indicating a male figure.";}i:2;i:537;}i:32;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:564;}i:33;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:566;}i:34;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:22:"Aboriginal Map Symbols";i:1;i:2;i:2;i:566;}i:2;i:566;}i:35;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:2;}i:2;i:566;}i:36;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:566;}i:37;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:104:"This picture provides a detailed understanding of Aboriginal maps, marking what each drawing represents:";}i:2;i:601;}i:38;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:706;}i:39;a:3:{i:0;s:12:"preformatted";i:1;a:1:{i:0;s:282:"1. Fire sticks
+2. Sand Hills
+3. Fire
+4. Bush fire
+5. Burnt Country
+6. Spinifex Grass
+7. River
+8. Sticks and Branches
+9. Dry Water Holes
+10. Bush Tucker
+11. Caves
+12. Fighting Stick
+13. Ceremonial Belts
+14. Wirra kurru
+15. Water Holes
+16. Women with Digging Sticks
+17. Coolamon Bowls";}i:2;i:706;}i:40;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:1024;}i:41;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:1024;}}
