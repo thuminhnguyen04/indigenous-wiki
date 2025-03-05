@@ -1,0 +1,57 @@
+
+@media screen and (max-width: 1000px) {
+	#header, #page, #menu { width: 100% !important; }
+	#content { width: 70%; }
+	#sidebarelement { width: 30%; box-sizing: border-box; }
+	#search-text { width: 60%; }
+}
+
+@media screen and (max-width: 700px) {
+	#wrapper, #page, #menu-wrapper { overflow: unset !important; }
+	#sidebarelement { float: left; clear: both; width: 90%; }
+	#header, #page, #content, #menu { width: 100% !important; }
+	#menu { min-height: 55px !important; height: auto !important; }
+	#logo h1 { font-size: 8em; }
+	.post .meta { margin-top: 45px; }
+    #header { margin-top: 2em; }
+}
+
+/*edits for dokuwiki */
+@media screen and (max-width: 700px) {
+	.page li, .page dd { margin: 0.85em 0px 0px 0px; }
+	button { margin: 8px; }
+	button img { padding: 3px; }
+}	
+
+/* media manager and config manager for mobile */
+@media screen and (max-width: 480px){
+  fieldset, 
+  #mediamanager__page, 
+  #mediamanager__page .filelist{ 
+    max-width: 100%; min-width: unset; 
+  }
+  #mediamanager__page .file, 
+  #mediamanager__page .namespaces, 
+  #mediamanager__page .panel { 
+    width: 100%; clear: both; float: none;
+  }
+  /*.page li, .page dd { margin: 1.35em 0px !important; display: block; }*/
+  #config__manager tr { }
+  #config__manager td { display: block;  padding: 1.15em 0px; max-width: 75%;  }
+
+  .dokuwiki fieldset { width: unset; }
+  #config__manager fieldset { width: 100%; box-sizing: border-box; }
+
+     /* make <select> not exceed it's parent div's width */
+    /* https://stackoverflow.com/q/44810056/337306 */
+    div.input { display: flex; } select { width: 100%; flex-shrink: 1; }
+
+  #config__manager fieldset td.value { width: unset; }
+
+  #config__manager td .input, 
+  #config__manager fieldset td.value, 
+  #config__manager td input.edit { 
+    max-width: 100%; 
+    width: unset;
+  }
+}

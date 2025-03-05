@@ -1,0 +1,7 @@
+base     varicolored
+author   desbest
+email    afaninthehouse@gmail.com
+date     2021-05-29
+name     Varicolored Template
+desc     A fancy colourful template
+url      https://www.dokuwiki.org/template:varicolored
