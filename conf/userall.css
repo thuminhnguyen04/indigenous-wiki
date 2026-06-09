@@ -1,0 +1,85 @@
+@media screen {
+ 
+    /* top bar */
+    .dokuwiki .topbar {
+        position: fixed; /* "fixed" for sticky on top */
+        top: 0;
+        left: 0;
+	width: 100%;
+	z-index:9999;
+    }
+    .dokuwiki .topbar ul {
+        text-align: center;
+        max-width: 600px; /* change accordingly */
+        margin: 0 auto;
+        padding: 0;
+        list-style: none;
+        background-color: __background_alt__;
+        border: solid __border__;
+        border-width: 0 5px 5px;
+        border-bottom-right-radius: 50px;
+        border-bottom-left-radius: 50px;
+        box-shadow: 0 10px 3px #999;
+        overflow: hidden;
+    }
+    .dokuwiki .topbar ul li {
+        margin: 0;
+        padding: 15px;
+        display: inline-block;
+        font-size: 100%;
+	font-weight:bold;
+	color:blue;
+    }
+    .dokuwiki .topbar ul li a {
+        color: __text__;
+        display: inline-block;
+        min-height: 16px; /* make sure icons are not cut off (most icons are 16x16) */
+    }
+ 
+    /* for IE7 */
+    *+html .dokuwiki .topbar ul li,
+    *+html .dokuwiki .topbar ul li a {
+        display: inline;
+    }
+ 
+    /* changes specific for the default "dokuwiki" template,
+       other templates need other changes! */
+    #dokuwiki__header {
+        padding-top: 3.5em;
+    }
+    #dokuwiki__usertools {
+        top: 2em;
+    }
+ 
+    /* IE8 needs this in the default template */
+    .dokuwiki .topbar ul li img {
+        max-width: none;
+    }
+ 
+} /* /@media */
+ 
+ 
+/* for screens less than 480px wide */
+@media only screen and (max-width: 480px) {
+ 
+    /* move topbar back to the bottom */
+    .dokuwiki .topbar {
+        position: static;
+    }
+ 
+    /* un-do some specific template changes */
+    #dokuwiki__header {
+        padding-top: .5em;
+    }
+ 
+} /* /@media */
+ 
+ 
+@media print {
+ 
+    /* don't print the topbar */
+    .dokuwiki .topbar {
+        display: none;
+    }
+ 
+} /* /@media */
