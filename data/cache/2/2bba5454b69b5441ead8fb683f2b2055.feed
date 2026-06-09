@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://16.176.2.91/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://16.176.2.91/feed.php">
+        <title>IndigiTech</title>
+        <description></description>
+        <link>http://16.176.2.91/</link>
+        <image rdf:resource="http://16.176.2.91/lib/tpl/arcadebasic/images/favicon.ico" />
+       <dc:date>2026-05-29T10:23:06+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=aboriginal_language&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=aboriginal_pedagogy&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=aboriginal_seasons&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=about_us&amp;rev=1779750672&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=art_gallery&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=case_studies&amp;rev=1779697227&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=fair_and_care_principles&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=history_of_aboriginals_symbols&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=home&amp;rev=1779540209&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=indigenous_data&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=indigenous_technology_companies_organisations&amp;rev=1779695779&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=my_country_by_damien_and_yilpi_marks&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=my_photo&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources&amp;rev=1779543734&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=sidebar&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=start&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=syntax&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=tali_by_eubena_nampitjin&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=tingari_by_george_ward_tjungurrayi&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=topbar&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=topics&amp;rev=1779696290&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=water&amp;rev=1774002384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=water_lightning_rain_dreaming_by_long_jack_phillipus&amp;rev=1774002384&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://16.176.2.91/lib/tpl/arcadebasic/images/favicon.ico">
+        <title>IndigiTech</title>
+        <link>http://16.176.2.91/</link>
+        <url>http://16.176.2.91/lib/tpl/arcadebasic/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://16.176.2.91/doku.php?id=aboriginal_language&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>aboriginal_language</title>
+        <link>http://16.176.2.91/doku.php?id=aboriginal_language&amp;rev=1774002384&amp;do=diff</link>
+        <description>Aboriginal and Torres Strait Islander Languages
+
+Most Commonly Spoken Languages (2021)
+
+The top 10 Aboriginal and Torres Strait Islander languages spoken in Australia in 2021 are listed below:
+ Language                                   Number of Speakers</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=aboriginal_pedagogy&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>aboriginal_pedagogy</title>
+        <link>http://16.176.2.91/doku.php?id=aboriginal_pedagogy&amp;rev=1774002384&amp;do=diff</link>
+        <description>8 Aboriginal Ways of Learning
+
+Aboriginal Pedagogy
+
+What is Pedagogy?
+
+Pedagogy refers to the methods and practices of teaching. It’s about how we help others learn effectively.
+
+Importance of Indigenous Pedagogy
+
+Indigenous pedagogy is important because it incorporates traditional knowledge, culture, and respect for the environment. The goal is to make learning meaningful and connected to real life. Indigenous pedagogy focuses on community, relationships, and learning from the land, making educ…</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=aboriginal_seasons&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>aboriginal_seasons</title>
+        <link>http://16.176.2.91/doku.php?id=aboriginal_seasons&amp;rev=1774002384&amp;do=diff</link>
+        <description>Understanding Seasonal Knowledge of First Nations Peoples
+
+Introduction: Aboriginal Seasons
+
+First Nations people have deep knowledge about the environment. All the seasons are mainly based on environmental changes rather than specific months. Every season marks important ecological events like plant flowering, animal behavior, and weather patterns.</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=about_us&amp;rev=1779750672&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T23:11:12+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>about_us</title>
+        <link>http://16.176.2.91/doku.php?id=about_us&amp;rev=1779750672&amp;do=diff</link>
+        <description>Welcome to this Wiki
+
+This wiki is part of Indig[e]nizing ICT curriculum: a starter framework for the community of practice, a collaborative initiative aimed at making computing and digital technologies education more inclusive, relevant, and reflective of First Nations perspectives and knowledge systems.</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=art_gallery&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>art_gallery</title>
+        <link>http://16.176.2.91/doku.php?id=art_gallery&amp;rev=1774002384&amp;do=diff</link>
+        <description>Art Gallery
+[Array][Array][Array][Array]</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=case_studies&amp;rev=1779697227&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T08:20:27+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>case_studies</title>
+        <link>http://16.176.2.91/doku.php?id=case_studies&amp;rev=1779697227&amp;do=diff</link>
+        <description>This section contains practical case studies, assignments, and applied learning activities related to Indigenous data governance, cyber security, digital ethics, technology policy, and Aboriginal and Torres Strait Islander knowledge systems.
+
+These case studies demonstrate how Indigenous perspectives, ethical frameworks, and digital governance principles can be applied in real-world educational, organisational, and research contexts.</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=fair_and_care_principles&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fair_and_care_principles</title>
+        <link>http://16.176.2.91/doku.php?id=fair_and_care_principles&amp;rev=1774002384&amp;do=diff</link>
+        <description>FAIR and CARE Principles for Responsible Research
+
+FAIR Principles: Making Your Data Findable, Accessible, Interoperable, and Reusable
+
+Researchers spend significant time, money, and effort collecting and analyzing data. Applying the FAIR principles ensures that data remains useful and impactful by making it:</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=history_of_aboriginals_symbols&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>history_of_aboriginals_symbols</title>
+        <link>http://16.176.2.91/doku.php?id=history_of_aboriginals_symbols&amp;rev=1774002384&amp;do=diff</link>
+        <description>History of Aboriginals
+
+Aboriginal Symbols Illustration
+
+The “U” shape on the ground symbolizes a person sitting cross-legged.  
+Lines linking circles illustrate the paths taken by people as they move from one site to another.
+
+Women Symbol
+
+The combination of a coolamon bowl and a digging stick forms a symbol resembling</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=home&amp;rev=1779540209&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T12:43:29+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>home</title>
+        <link>http://16.176.2.91/doku.php?id=home&amp;rev=1779540209&amp;do=diff</link>
+        <description>Acknowledgement of Country and Elders
+
+IndigiTech acknowledges the peoples who are the traditional custodians of Australia and the Torres Strait Islands. We respect their spiritual relationship with their country, and that their cultural and heritage beliefs are still important to the living peoples today. We also pay respect to the cultural authority of Aboriginal and Torres Strait Islander peoples of Australia and pay respect to their Elders past, and present.</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=indigenous_data&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>indigenous_data</title>
+        <link>http://16.176.2.91/doku.php?id=indigenous_data&amp;rev=1774002384&amp;do=diff</link>
+        <description>Indigenous Data
+
+Definition
+
+“Data generated, intentionally or not, by, about, or for Aboriginal and Torres Strait Islander people. Indigenous data refers to information, in any format or medium, collected, analysed, stored, and interpreted within the context of Indigenous individuals, collectives, populations, entities, lifeways, cultures, knowledge systems, lands, biodiversity, water and other resources.</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=indigenous_technology_companies_organisations&amp;rev=1779695779&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T07:56:19+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>indigenous_technology_companies_organisations</title>
+        <link>http://16.176.2.91/doku.php?id=indigenous_technology_companies_organisations&amp;rev=1779695779&amp;do=diff</link>
+        <description>Indigenous Technology &amp; Digital Innovation
+
+Explore Indigenous-led organisations and companies working in technology, digital innovation, cyber security, software, AI, education technology, digital inclusion, and Indigenous data sovereignty.
+
+Indigenous Technology Companies &amp; Organisations</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=my_country_by_damien_and_yilpi_marks&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>my_country_by_damien_and_yilpi_marks</title>
+        <link>http://16.176.2.91/doku.php?id=my_country_by_damien_and_yilpi_marks&amp;rev=1774002384&amp;do=diff</link>
+        <description>My Country by Damien and Yilpi Marks
+
+
+
+“My Country” by Damien and Yilpi Marks celebrates the beauty and spirit of the Australian landscape. Using vibrant colors and layered patterns, the artwork reflects the artists&#039; deep connection to their homeland, portraying rivers, hills, and sacred sites. It’s a visual story of the land’s energy and cultural significance, honoring the ancestral ties and traditions linked to</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=my_photo&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>my_photo</title>
+        <link>http://16.176.2.91/doku.php?id=my_photo&amp;rev=1774002384&amp;do=diff</link>
+        <description>this is an example
+
+Photos:</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources&amp;rev=1779543734&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T13:42:14+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>resources</title>
+        <link>http://16.176.2.91/doku.php?id=resources&amp;rev=1779543734&amp;do=diff</link>
+        <description>Ethics &amp; Policy Documents
+
+These documents provide guidance on ethical research practices and cyber security considerations when working with Aboriginal and Torres Strait Islander peoples and communities.
+
+	*  Ethical Conduct in Research with Aboriginal and Torres Strait Islander Peoples and Communities: Guidelines for Researchers and Stakeholders</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=sidebar&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>sidebar</title>
+        <link>http://16.176.2.91/doku.php?id=sidebar&amp;rev=1774002384&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=start&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>start</title>
+        <link>http://16.176.2.91/doku.php?id=start&amp;rev=1774002384&amp;do=diff</link>
+        <description>Welcome to IndigiTech
+
+IndigiTech acknowledges the peoples who are the traditional custodians of Australia and the Torres Strait Islands. We respect their spiritual relationship with their country, and that their cultural and heritage beliefs are still important to the living peoples today. We also pay respect to the cultural authority of Aboriginal and Torres Strait Islander peoples of Australia and pay respect to their Elders past, and present.</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=syntax&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>syntax</title>
+        <link>http://16.176.2.91/doku.php?id=syntax&amp;rev=1774002384&amp;do=diff</link>
+        <description>DokuWiki Cheatsheet
+ Syntax                                                               Result                                                        FORMATTING</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=tali_by_eubena_nampitjin&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>tali_by_eubena_nampitjin</title>
+        <link>http://16.176.2.91/doku.php?id=tali_by_eubena_nampitjin&amp;rev=1774002384&amp;do=diff</link>
+        <description>Tali by Eubena Nampitjin
+
+“Tali” by Eubena Nampitjin depicts the sand dunes, or “tali,” of the Great Sandy Desert, a landscape deeply connected to her heritage. The artwork uses flowing lines and rich earthy tones to represent the movement and patterns of the dunes shaped by wind and time. Through this piece, Nampitjin brings to life her memories and ancestral connections to the desert, highlighting the beauty and spiritual importance of her homeland.</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=tingari_by_george_ward_tjungurrayi&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>tingari_by_george_ward_tjungurrayi</title>
+        <link>http://16.176.2.91/doku.php?id=tingari_by_george_ward_tjungurrayi&amp;rev=1774002384&amp;do=diff</link>
+        <description>Tingari by George Ward Tjungurrayi
+
+“Tingari” by George Ward Tjungurrayi represents the journeys and rituals of the Tingari ancestors, a group of ancestral beings important in Aboriginal tradition. This artwork captures their travels across the land, leaving sacred sites and knowledge behind, which are crucial for guiding initiations and teaching younger generations. The abstract patterns and concentric circles in the piece echo the sacred landscape, blending spiritual stories with the natural g…</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=topbar&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>topbar</title>
+        <link>http://16.176.2.91/doku.php?id=topbar&amp;rev=1774002384&amp;do=diff</link>
+        <description>*  Home
+	*  Topics
+	*  Art Gallery
+	*  Resources
+	*  About Us</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=topics&amp;rev=1779696290&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T08:04:50+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>topics</title>
+        <link>http://16.176.2.91/doku.php?id=topics&amp;rev=1779696290&amp;do=diff</link>
+        <description>Topics
+
+  Aboriginal Pedagogy 
+
+  Aboriginal Seasons 
+
+  Aboriginal Language 
+
+  History of Aboriginals &amp; Symbols 
+
+  Indigenous Data 
+
+  FAIR and CARE Principles 
+
+  Indigenous Technology Companies &amp; Organisations 
+
+  Case Studies</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=water&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>water</title>
+        <link>http://16.176.2.91/doku.php?id=water&amp;rev=1774002384&amp;do=diff</link>
+        <description>hi</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=water_lightning_rain_dreaming_by_long_jack_phillipus&amp;rev=1774002384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-20T10:26:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>water_lightning_rain_dreaming_by_long_jack_phillipus</title>
+        <link>http://16.176.2.91/doku.php?id=water_lightning_rain_dreaming_by_long_jack_phillipus&amp;rev=1774002384&amp;do=diff</link>
+        <description>Water &amp; Lightning Rain Dreaming by Long Jack Phillipus
+
+“Water &amp; Lightning Rain Dreaming” by Long Jack Phillipus illustrates the powerful elements of water and lightning central to Aboriginal lore. This piece symbolizes rainstorms, rivers, and the life-giving forces they bring to the land, vital for survival in desert regions. Through vibrant patterns and colors, the artwork reflects the sacred connection to these natural elements, emphasizing their role in sustaining and renewing the earth.</description>
+    </item>
+</rdf:RDF>

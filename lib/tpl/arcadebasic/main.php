@@ -12,8 +12,12 @@ if (!defined('DOKU_INC')) die(); /* must be run from within DokuWiki */
 @require_once(dirname(__FILE__).'/tpl_functions.php'); /* include hook for template functions */
 header('X-UA-Compatible: IE=edge,chrome=1');
 
-$showTools = !tpl_getConf('hideTools') || ( tpl_getConf('hideTools') && !empty($_SERVER['REMOTE_USER']) );
-$showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
+global $INFO;
+
+$isM = 1;
+//$isM = ($INFO['isadmin']);
+$showTools =  $isM && ( !tpl_getConf('hideTools') || ( tpl_getConf('hideTools') && !empty($_SERVER['REMOTE_USER']) ));
+$showSidebar =   page_findnearest($conf['sidebar']) && ($ACT=='show');
 ?><!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php echo $conf['lang'] ?>"
   lang="<?php echo $conf['lang'] ?>" dir="<?php echo $lang['direction'] ?>" class="no-js">
@@ -153,11 +157,11 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
                     <h3 class="a11y"><?php echo $lang['page_tools'] ?></h3>
                     <?php tpl_toolsevent('pagetools', array(
                     'edit'      => tpl_action('edit', 1, 'li', 1),
-                    'discussion'=> _tpl_action('discussion', 1, 'li', 1),
-                    'revisions' => tpl_action('revisions', 1, 'li', 1),
-                    'backlink'  => tpl_action('backlink', 1, 'li', 1),
-                    'subscribe' => tpl_action('subscribe', 1, 'li', 1),
-                    'revert'    => tpl_action('revert', 1, 'li', 1),
+                   // 'discussion'=> _tpl_action('discussion', 1, 'li', 1),
+                   // 'revisions' => tpl_action('revisions', 1, 'li', 1),
+                   // 'backlink'  => tpl_action('backlink', 1, 'li', 1),
+                   // 'subscribe' => tpl_action('subscribe', 1, 'li', 1),
+                   // 'revert'    => tpl_action('revert', 1, 'li', 1),
                     //'top'       => tpl_action('top', 1, 'li', 1),
                     )); ?>
                 </ul>
@@ -166,9 +170,9 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
 
 
                 <?php if ($conf['useacl'] && $showTools): ?>
-                <aside class="widget">        
+    <!--            <aside class="widget">        
                 <h3 class="widget-title">User Tools</h3><ul>
-                    <!-- USER TOOLS -->
+                    <!-- USER TOOLS 
                     <h3 class="a11y"><?php echo $lang['user_tools'] ?></h3>
                     <?php
                         if (!empty($_SERVER['REMOTE_USER'])) {
@@ -180,8 +184,8 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
                     <?php /* the optional second parameter of tpl_action() switches between a link and a button,
                              e.g. a button inside a <li> would be: tpl_action('edit', 0, 'li') */
                     ?>
-                    <?php tpl_toolsevent('usertools', array(
-                    'admin'     => tpl_action('admin', 1, 'li', 1),
+                   <?php tpl_toolsevent('usertools', array( 
+                   // 'admin'     => tpl_action('admin', 1, 'li', 1),
                     'userpage'  => _tpl_action('userpage', 1, 'li', 1),
                     'profile'   => tpl_action('profile', 1, 'li', 1),
                     'register'  => tpl_action('register', 1, 'li', 1),
@@ -189,11 +193,11 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
                     )); ?>
                 </ul>
                 </aside>
-                <?php endif ?>
-
+                <?php endif ?>-->
+<!--
                 <aside class="widget">        
                 <h3 class="widget-title">Site Tools</h3><ul>
-                <!-- SITE TOOLS -->
+                <!-- SITE TOOLS 
                 <h3 class="a11y"><?php echo $lang['site_tools'] ?></h3>
                     <?php tpl_toolsevent('sitetools', array(
                         'recent'    => tpl_action('recent', 1, 'li', 1),
@@ -201,7 +205,7 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
                         'index'     => tpl_action('index', 1, 'li', 1),
                     )); ?>
                 </ul>
-                </aside>
+                </aside> -->
             </div><!-- #secondary.widget-area -->
             <!-- sidebar ends -->
             </div>

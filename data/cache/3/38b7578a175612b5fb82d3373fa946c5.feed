@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://16.176.2.91/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://16.176.2.91/feed.php">
+        <title>IndigiTech</title>
+        <description></description>
+        <link>http://16.176.2.91/</link>
+        <image rdf:resource="http://16.176.2.91/lib/tpl/arcadebasic/images/favicon.ico" />
+       <dc:date>2026-06-07T07:12:00+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=topbar&amp;rev=1780381276&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=art_gallery&amp;rev=1780377809&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?image=artwork.png&amp;ns=&amp;rev=1780377705&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources:resources:otherresources&amp;rev=1780358648&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources:start&amp;rev=1780358511&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources:resources:start&amp;rev=1780358475&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources:resources:casestudies&amp;rev=1780357593&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources:resources&amp;rev=1780357550&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources1:home:start&amp;rev=1780357456&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources:resources:otherresources:otherresouces&amp;rev=1780356827&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources:resources:casestudies:casestudies&amp;rev=1780356803&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources1:home:start2:start2&amp;rev=1780355893&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources1:home:start2&amp;rev=1780355787&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources1:home&amp;rev=1780355384&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources1:home:start:start2&amp;rev=1780355271&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources1:start&amp;rev=1780354662&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources1:resources2&amp;rev=1780354571&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources1:resources1&amp;rev=1780309434&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources1:rscs1&amp;rev=1780309368&amp;do=diff"/>
+                <rdf:li rdf:resource="http://16.176.2.91/doku.php?id=resources1&amp;rev=1780309301&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://16.176.2.91/lib/tpl/arcadebasic/images/favicon.ico">
+        <title>IndigiTech</title>
+        <link>http://16.176.2.91/</link>
+        <url>http://16.176.2.91/lib/tpl/arcadebasic/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://16.176.2.91/doku.php?id=topbar&amp;rev=1780381276&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T06:21:16+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title></title>
+        <link>http://16.176.2.91/doku.php?id=topbar&amp;rev=1780381276&amp;do=diff</link>
+        <description>*  Home
+	*  Topics
+	*  Resources
+	*  Art Gallery
+	*  About Us</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=art_gallery&amp;rev=1780377809&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T05:23:29+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>Art Gallery</title>
+        <link>http://16.176.2.91/doku.php?id=art_gallery&amp;rev=1780377809&amp;do=diff</link>
+        <description>Art Gallery
+[Array][Array][Array][Array][Array]</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?image=artwork.png&amp;ns=&amp;rev=1780377705&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T05:21:45+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>artwork.png - created</title>
+        <link>http://16.176.2.91/doku.php?image=artwork.png&amp;ns=&amp;rev=1780377705&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://16.176.2.91/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=ac10ca&amp;amp;media=artwork.png&quot; alt=&quot;artwork.png&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources:resources:otherresources&amp;rev=1780358648&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T00:04:08+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>Other Resources</title>
+        <link>http://16.176.2.91/doku.php?id=resources:resources:otherresources&amp;rev=1780358648&amp;do=diff</link>
+        <description>Other Resources</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources:start&amp;rev=1780358511&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T00:01:51+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>Resources - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources:start&amp;rev=1780358511&amp;do=diff</link>
+        <description>Resources</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources:resources:start&amp;rev=1780358475&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T00:01:15+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>Resources - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources:resources:start&amp;rev=1780358475&amp;do=diff</link>
+        <description>Resources</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources:resources:casestudies&amp;rev=1780357593&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T23:46:33+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>Case Studies - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources:resources:casestudies&amp;rev=1780357593&amp;do=diff</link>
+        <description>Case Studies</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources:resources&amp;rev=1780357550&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T23:45:50+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>Resources - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources:resources&amp;rev=1780357550&amp;do=diff</link>
+        <description>Resources</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources1:home:start&amp;rev=1780357456&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T23:44:16+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>Case Studies</title>
+        <link>http://16.176.2.91/doku.php?id=resources1:home:start&amp;rev=1780357456&amp;do=diff</link>
+        <description>Case Studies
+
+This section contains practical case studies, assignments, and applied learning activities related to Indigenous data governance, cyber security, digital ethics, technology policy, and Aboriginal and Torres Strait Islander knowledge systems.</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources:resources:otherresources:otherresouces&amp;rev=1780356827&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T23:33:47+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>Educational Resources - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources:resources:otherresources:otherresouces&amp;rev=1780356827&amp;do=diff</link>
+        <description>Educational Resources
+  
+National Museum of Australia – Indigenous Cultures and Contact History 
+Free classroom resource featuring timelines, contact history, and community stories. 
+
+Visit Resource   
+Creative Spirits 
+Accessible introduction to Aboriginal culture for general audiences, covering history, culture, and contemporary issues.</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources:resources:casestudies:casestudies&amp;rev=1780356803&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T23:33:23+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title>Case Studies - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources:resources:casestudies:casestudies&amp;rev=1780356803&amp;do=diff</link>
+        <description>Case Studies
+
+This section contains practical case studies, assignments, and applied learning activities related to Indigenous data governance, cyber security, digital ethics, technology policy, and Aboriginal and Torres Strait Islander knowledge systems.</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources1:home:start2:start2&amp;rev=1780355893&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T23:18:13+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title> - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources1:home:start2:start2&amp;rev=1780355893&amp;do=diff</link>
+        <description>hoemstart2start2</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources1:home:start2&amp;rev=1780355787&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T23:16:27+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title> - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources1:home:start2&amp;rev=1780355787&amp;do=diff</link>
+        <description>homestart2</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources1:home&amp;rev=1780355384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T23:09:44+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title> - removed</title>
+        <link>http://16.176.2.91/doku.php?id=resources1:home&amp;rev=1780355384&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources1:home:start:start2&amp;rev=1780355271&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T23:07:51+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title> - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources1:home:start:start2&amp;rev=1780355271&amp;do=diff</link>
+        <description>myhomestartstart2</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources1:start&amp;rev=1780354662&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T22:57:42+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title> - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources1:start&amp;rev=1780354662&amp;do=diff</link>
+        <description>mystart</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources1:resources2&amp;rev=1780354571&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T22:56:11+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title> - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources1:resources2&amp;rev=1780354571&amp;do=diff</link>
+        <description>hi</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources1:resources1&amp;rev=1780309434&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T10:23:54+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title> - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources1:resources1&amp;rev=1780309434&amp;do=diff</link>
+        <description>hi</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources1:rscs1&amp;rev=1780309368&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T10:22:48+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title> - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources1:rscs1&amp;rev=1780309368&amp;do=diff</link>
+        <description>test2</description>
+    </item>
+    <item rdf:about="http://16.176.2.91/doku.php?id=resources1&amp;rev=1780309301&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T10:21:41+00:00</dc:date>
+        <dc:creator>minhthunguyen (minhthunguyen@undisclosed.example.com)</dc:creator>
+        <title> - created</title>
+        <link>http://16.176.2.91/doku.php?id=resources1&amp;rev=1780309301&amp;do=diff</link>
+        <description>test1</description>
+    </item>
+</rdf:RDF>

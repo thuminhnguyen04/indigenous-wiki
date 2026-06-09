@@ -1,5 +1,8 @@
   * [[Home|Home]]
   * [[topics|Topics]]
-  * [[art_gallery|Art Gallery]]
   * [[resources|Resources]]
+  * [[art_gallery|Art Gallery]]
   * [[about_us|About Us]]
+  
+
+   

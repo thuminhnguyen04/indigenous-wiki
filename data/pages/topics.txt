@@ -13,5 +13,7 @@
 
 <WRAP column 20%> {{:indigenousdata.png?200|}} [[:Indigenous Data]] </WRAP>
 <WRAP column 20%> {{:ardc.jpg?200|}} [[:FAIR and CARE Principles]] </WRAP>
+<WRAP column 22%> {{:languageshomepage.jpg?220|}} [[:Indigenous Technology Companies & Organisations]] </WRAP>
+<WRAP column 21%> {{:aboriginalflag.jpg?200|}} [[Case Studies]] </WRAP>
 
 </WRAP>

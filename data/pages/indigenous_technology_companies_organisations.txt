@@ -1,0 +1,16 @@
+====== Indigenous Technology & Digital Innovation ======
+
+Explore Indigenous-led organisations and companies working in technology, digital innovation, cyber security, software, AI, education technology, digital inclusion, and Indigenous data sovereignty.
+
+===== Indigenous Technology Companies & Organisations =====
+
+^ Organisation ^ Focus Area ^ Website ^
+| Indigital | Indigenous digital technology, AI, immersive storytelling, digital education | [[https://www.indigital.net.au|Indigital]] |
+| IndigenousX | Indigenous-led digital media and online advocacy platform | [[https://indigenousx.com.au|IndigenousX]] |
+| Baidam Solutions | Indigenous-owned technology and cyber security consultancy | [[https://www.baidam.com.au|Baidam Solutions]] |
+| IndigiLab | Indigenous innovation, entrepreneurship, and digital capability programs | [[https://indigilab.com.au|IndigiLab]] |
+| YarnnUp | Cultural capability training and digital learning platform | [[https://www.yarnnup.com.au|YarnnUp]] |
+| Geared for Life | STEM and technology education pathways for Indigenous youth | [[https://www.gearedforlife.org.au|Geared for Life]] |
+| Muru-D Indigenous Program | Startup accelerator supporting Indigenous entrepreneurs and tech founders | [[https://muru-d.com/indigenous|Muru-D Indigenous Program]] |
+| Tribal Warrior | Community digital inclusion and training initiatives | [[https://www.tribalwarrior.org|Tribal Warrior]] |
+| Koori Curriculum | Digital educational resources embedding Aboriginal perspectives | [[https://kooricurriculum.com|Koori Curriculum]] |
