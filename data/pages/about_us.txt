@@ -1,0 +1,47 @@
+====== Welcome to this Wiki ======
+
+This wiki is part of **Indig[e]nizing ICT curriculum: a starter framework for the community of practice**, a collaborative initiative aimed at making computing and digital technologies education more inclusive, relevant, and reflective of First Nations perspectives and knowledge systems.
+
+This initiative and website were developed under a funded grant to support educators, curriculum designers, and communities in embedding Indigenous ways of knowing, being, and doing into ICT and Digital Technologies education.
+
+It is informed by the work of organisations such as the **Australian Council for Computers in Education (ACCE)**—the national professional body supporting the use of information and communication technologies (ICT) in education across Australia. 
+
+This wiki has been created as a **living resource** to:
+  * collect and share knowledge, examples, and practices  
+  * support the indigenising of ICT and Digital Technologies curriculum  
+  * foster a community of practice around culturally responsive computing education  
+
+We hope this space helps educators and learners explore meaningful ways of integrating Indigenous perspectives into teaching and learning in ICT.
+
+
+===== About the Project =====
+
+This project was funded by the **Australian Council of Deans of ICT (ACDICT)** through its **Small Grants Scheme 2024**.
+
+It is a collaboration between **Deakin University** and **Swinburne University of Technology**, with the goal of developing practical, community-informed approaches to indigenising ICT curriculum across Australian universities.
+
+The project brings together a multidisciplinary team with expertise spanning ICT education, Indigenous studies, and community engagement.
+
+---
+
+===== The Team =====
+
+* **Dr Jianhua (Jack) Li** — Lead Applicant, Deakin
+
+* **Dr Armita Zarnegar** — Co-investigator
+
+* **Dr Bahadorreza Ofoghi** — Co-investigator
+
+* **Prof Trina Myers** — Co-investigator
+
+---
+
+===== Our Partner Universities =====
+
+==== Deakin University ====
+
+Lead institution for this project, bringing expertise in ICT education and a strong commitment to embedding Indigenous perspectives across curriculum and research.
+
+==== Swinburne University of Technology ====
+
+Collaborating partner contributing expertise in technology education, industry engagement, and reconciliation commitments.

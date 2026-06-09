@@ -1,0 +1,40 @@
+===== Case Studies =====
+
+This section contains practical case studies, assignments, and applied learning activities related to Indigenous data governance, cyber security, digital ethics, technology policy, and Aboriginal and Torres Strait Islander knowledge systems.
+
+These case studies demonstrate how Indigenous perspectives, ethical frameworks, and digital governance principles can be applied in real-world educational, organisational, and research contexts.
+
+==== Case Study 1: Technology, Copyright & Cyber Security Policy in Indigenous Contexts ====
+
+**Unit:** Cyber Ethics  
+
+
+**Institution:** Swinburne University of Technology
+
+This case study is based on a cybersecurity assignment delivered across two semesters and two units at Swinburne University of Technology. Students are required to collaboratively develop Technology, Copyright, AI Governance, and Cyber Security policies for an organisation that handles Aboriginal data.
+
+The assignment incorporates Indigenous methodologies through the use of yarning circles and encourages students to consider Indigenous Data Governance, ethical AI use, copyright, data sovereignty, risk management, and cyber security frameworks such as NIST and ISO 27001.
+
+Students explore how organisations can ethically and securely manage Aboriginal and Torres Strait Islander data while balancing legal, cultural, and technological responsibilities.
+
+{{:assignment-_tech_copyright_and_cyber_security_policy.pdf |View or Download Assignment PDF}}
+
+
+
+
+==== Case Study 2: Ethical Conduct in Research with Aboriginal and Torres Strait Islander Peoples and Communities ====
+
+
+  * **Guidelines for Researchers and Stakeholders**  
+  *      Provides principles and guidance for conducting respectful and ethical research with First Nations communities.  
+        * {{:indigenous-ethical-guidelines_1_1_.pdf |Download PDF}}
+
+
+
+==== Case Study 3: Indigenous Research Studies ====
+
+
+  * **Supporting Indigenous Researchers: A Practical Guide for Supervisors**
+      * Provides practical guidance for supervisors on fostering culturally safe, supportive, and effective research environments for Indigenous researchers, with a focus on mentorship, inclusion, and Indigenous research leadership.
+        * {{:supervisors_guide1_0.pdf |Download PDF}}
+

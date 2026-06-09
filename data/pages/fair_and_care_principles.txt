@@ -1,0 +1,29 @@
+====== FAIR and CARE Principles for Responsible Research ======
+
+==== FAIR Principles: Making Your Data Findable, Accessible, Interoperable, and Reusable ====
+
+Researchers spend significant time, money, and effort collecting and analyzing data. Applying the FAIR principles ensures that data remains useful and impactful by making it:
+
+  * **Findable**: Well-documented and searchable.  
+  * **Accessible**: Available with appropriate permissions and ethical considerations.  
+  * **Interoperable**: Usable across different systems and disciplines.  
+  * **Reusable**: Properly structured, with clear provenance and metadata, allowing future researchers to build on existing work.  
+
+**Benefits of FAIR Data:**  
+
+  * Increases research impact.  
+  * Enhances collaboration and reuse across disciplines.  
+  * Improves citation rates for datasets.  
+
+----
+
+==== CARE Principles: Indigenous Data Sovereignty and Governance ====
+
+For research involving Indigenous data, it is essential to consider the **CARE Principles** (Collective Benefit, Authority to Control, Responsibility, and Ethics). These were established in 2018 to address the unique rights and interests of Indigenous communities in data governance.
+
+**Key Principles:**  
+
+  * **Collective Benefit**: Indigenous Peoples should benefit from the use of their data.  
+  * **Authority to Control**: Indigenous communities have the right to control the collection, ownership, and application of their data.  
+  * **Responsibility**: Researchers handling Indigenous data must ensure its ethical use, aligning with community expectations and cultural sensitivities.  
+  * **Ethics**: Indigenous data should be used in ways that uphold respect, trust, and accountability.  

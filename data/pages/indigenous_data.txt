@@ -1,0 +1,102 @@
+====== Indigenous Data ======
+
+===== Definition =====
+"Data generated, intentionally or not, by, about, or for Aboriginal and Torres Strait Islander people. Indigenous data refers to information, in any format or medium, collected, analysed, stored, and interpreted within the context of Indigenous individuals, collectives, populations, entities, lifeways, cultures, knowledge systems, lands, biodiversity, water and other resources.
+
+It includes data collected, used, or stored by any agency, department, laboratory, organisation, corporation, statutory body, university or research institute, conducted by, with, and about Indigenous people or peoples, and data that Indigenous communities have generated and maintained themselves."
+
+//(Indigenous Data Network, 2024).//
+
+===== CARE AND FAIR PRINCIPLES =====
+  * **Authority to Control:** Indigenous peoples' rights and interests in their data must be recognized and upheld.
+  * Indigenous communities should have the authority to control how their data is collected, accessed, and used.
+  * **Ethics:**
+    * Data use should align with Indigenous ethical frameworks and values, ensuring respect and reciprocity.
+    * Ethical considerations should guide all aspects of data management, from collection to application.
+  * **Collective Benefit:**
+    * Data ecosystems should be designed to enable Indigenous peoples to derive benefits from their data.
+    * Data should support the self-determination and collective well-being of Indigenous communities.
+  * **Responsibility:**
+    * Those working with Indigenous data have a responsibility to improve Indigenous peoples' lives and governance structures.
+    * Data practices should align with the values and priorities of Indigenous communities.
+
+====== History ======
+
+===== 1788 =====
+**Historical Context of Indigenous Data: Post-colonial**
+  * **British Colonisation:** Initiated with the arrival of the First Fleet in 1788, leading to widespread displacement of Indigenous populations.
+  * **Disruption of Indigenous Knowledge Systems:** Colonial policies and practices disrupted traditional ways of life and knowledge transmission.
+  * **Introduction of Western Data Collection Methods:** Colonial authorities began systematically collecting data on Indigenous populations without their consent.
+  * **Assimilation Policies:** Policies aimed at assimilating Indigenous peoples into Western culture, such as the Aboriginal Protection Acts, led to further loss of Indigenous control over their data.
+  * **Stolen Generations:** Forced removal of Indigenous children from their families, resulting in a significant loss of cultural knowledge and heritage.
+  * **Exploitation and Misrepresentation:** Indigenous knowledge and data were often exploited for scientific and commercial purposes without recognition or benefit to Indigenous communities.
+  * **Census and Surveys:** Early colonial censuses and surveys often misrepresented Indigenous populations and lacked cultural sensitivity.
+
+===== 1976 =====
+**Aboriginal Land Rights (Northern Territory) Act 1976**
+  * Recognised Indigenous Australians' land rights.
+  * Paved the way for Indigenous control over land-related data.
+
+===== 1993 =====
+**Native Title Act 1993**
+  * Recognised the traditional rights of Indigenous Australians to land and waters.
+  * Established frameworks for managing and governing land-related data.
+
+===== 1999 =====
+**1999 Referendum**
+  * Proposed to formally recognise Indigenous Australians in the Constitution and establish a preamble acknowledging their history and cultures.
+  * Although it did not pass, it highlighted the ongoing national dialogue about Indigenous recognition and rights.
+
+===== 2008 =====
+**National Indigenous Reform Agreement (2008)**
+  * Part of the Closing the Gap initiative.
+  * Focused on improving health, education, and employment outcomes for Indigenous Australians.
+  * Emphasised the importance of data in monitoring progress.
+
+===== 2014 =====
+**Indigenous Advancement Strategy (2014)**
+  * Aimed to streamline funding and improve outcomes for Indigenous Australians.
+  * Highlighted the need for data-driven approaches in policy-making.
+
+===== 2015 =====
+**The Emergence of Indigenous Data Sovereignty**
+  * In 2015, researchers, Indigenous leaders, and government representatives from Canada, Australia, Aotearoa/New Zealand, and the United States (CANZUS nations) convened in Canberra for a workshop addressing Indigenous Data Sovereignty.
+  * Organised by the Academy of the Social Sciences in Australia (ASSA) and the Centre for Aboriginal Economic Policy Research (CAPR) at The Australian National University (ANU), the event provided a platform to explore Indigenous authority over data governance.
+
+===== 2017 =====
+**Establishment of the Maiam Nayri Wingara (2015)**
+  * Emerged from a workshop on Data Sovereignty for Indigenous Peoples hosted by the Academy of the Social Sciences in Australia in July 2015.
+  * Advocated for Indigenous Australians' rights to control their data and promoted the use of data to empower Indigenous communities.
+
+===== 2017 =====
+**Establishment of the Indigenous Data Network (2018)**
+  * Established to support and coordinate the governance of Indigenous data for Aboriginal and Torres Strait Islander peoples.
+  * Empowered Aboriginal and Torres Strait Islander communities to decide their own local data priorities.
+  * Led by a Steering Committee of experts and stakeholders, with founding partners including the University of Melbourne, the Australian National University, and AIATSIS.
+
+===== 2019 =====
+**The emergence of CARE and FAIR Principles**
+  * **FAIR Principles:** Findable, Accessible, Interoperable, Reusable.
+  * **CARE Principles:** Collective Benefit, Authority to Control, Responsibility, and Ethics.
+  * They emphasize the rights of Indigenous communities to control their data, ensuring that it is collected and utilized in ways that respect their cultural values, sovereignty, and self-determination.
+
+====== Learning Examples ======
+
+===== Example 1: Hospital Admissions Dataset =====
+**(Version: 1.0, Last Edited: Sometime in 2025, Created by: Some Data Team, XYZ Health Place)**
+  * **Name:** Hospital Info Data
+  * **Description:** This dataset contains information about hospital patients, including names, dates, medical conditions, and Aboriginal and Torres Strait Islander status.
+  * **Source:** Hospital record system.
+  * **Coverage:** 2015 to present.
+  * **Access:** Restricted due to private patient information; some data may be available for approved research.
+
+===== Example 2: Hospital Admissions Dataset =====
+**(Version: 1.0, Last Updated: 3 February 2025, Author: Data Governance Team, XYZ Health System)**
+  * **Title:** Hospital Admissions Data
+  * **Description:** Structured records of patient hospital admissions, including demographic details, admission and discharge dates, diagnoses, assigned medical staff, room assignments, and insurance information.
+  * **Data Quality Standards:**
+    * All patient IDs are anonymised using UUID format.
+    * Diagnoses follow the ICD-10 medical classification system.
+    * Admission dates must precede discharge dates.
+  * **Access:** Restricted, with ethical considerations for Indigenous data sovereignty.
+

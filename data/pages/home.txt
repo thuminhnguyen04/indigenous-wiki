@@ -1,0 +1,28 @@
+ ~~NOTOC~~
+
+====== Acknowledgement of Country and Elders ======
+IndigiTech acknowledges the peoples who are the traditional custodians of Australia and the Torres Strait Islands. We respect their spiritual relationship with their country, and that their cultural and heritage beliefs are still important to the living peoples today. We also pay respect to the cultural authority of Aboriginal and Torres Strait Islander peoples of Australia and pay respect to their Elders past, and present.
+
+Colonisation from 1788 onwards brought profound disruption to these cultures and communities, including the dispossession of land, suppression of language, and policies of forced removal that fractured families and communities for generations. It is important to recognise that sovereignty was never ceded. Aboriginal and Torres Strait Islander peoples have never surrendered their deep and abiding connection to Country, nor the rich and sophisticated ways of knowing that have sustained their cultures for tens of thousands of years. These ways of knowing are holistic and relational, understanding the world not through fragmented disciplines but through interconnected systems of land, story, kinship, and spirit. Knowledge is passed down through ceremony, oral tradition, and lived experience, and it carries with it a responsibility to care for Country and community. This living knowledge is not a relic of the past; it is dynamic, enduring, and profoundly relevant to the challenges we face today. Many organisations and institutions, including universities are responding through Reconciliation Action Plans (RAPs), formal commitments to build respectful relationships, create opportunities, and take meaningful action toward reconciliation with Aboriginal and Torres Strait Islander communities. Reconciliation is not a destination but an ongoing journey, and one that requires genuine listening, humility, and shared responsibility.
+
+====== About IndigiTech ======
+Welcome to **IndigiTech**, a digital space dedicated to exploring the rich history, culture, and stories of Aboriginal Australia. Here, we delve into the traditions and perspectives of Aboriginal communities, bringing you closer to the world of *Dreamtime stories*, historical art, and practices that hold deep significance.
+
+Our site explores key aspects of Aboriginal heritage, including:
+  * Unique pedagogies
+  * Language diversity
+  * Seasonal knowledge
+  * Artwork that speaks to the past and present of Aboriginal life
+
+Through these insights, IndigiTech aims to foster a deeper understanding and appreciation of the enduring legacy of Aboriginal culture in Australia.
+
+=======Topics=======
+
+<WRAP group>
+
+<WRAP column 20%> {{:aboriginalflag.jpg?200|}} [[:Aboriginal Pedagogy]] </WRAP>
+<WRAP column 20%> {{:dsc0663_600x.webp?200|}} [[:Aboriginal Seasons]] </WRAP>
+<WRAP column 22%> {{:languageshomepage.jpg?220|}} [[:Aboriginal Language]] </WRAP>
+<WRAP column 21%> {{:ausindig.jpg?200|}} [[:History of Aboriginals & Symbols]] </WRAP>
+
+</WRAP>
